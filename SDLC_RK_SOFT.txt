@@ -1,0 +1,6 @@
+parties -> buy,purchase
+items -> chemical,mould,colour,sole
+sales -> sole
+purchase -> mould,colour,chemical,
+expense -> office[sub category: office essentials,rents,conveyence],others
+reporting -> party wise,date wise,sales,expense,day book,stock summary,returns
